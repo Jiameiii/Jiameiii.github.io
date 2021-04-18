@@ -16,14 +16,14 @@ function preload() {
 //  img = loadImage('cat.jpg');  // cat.jpg needs to be next to this .js file
 // you can link to an image on your github account
   img = loadImage('https://dma-git.github.io/images/74.png');
-  img1 = loadImage('giphy.gif');
-  img2 = loadImage('yes.gif');
-  img3 = loadImage('nah.gif');
-  img4 = loadImage('maskon.gif');
-  img5 = loadImage('washhand.gif');
-  img6 = loadImage('thumbsup.gif');
-  img7 = loadImage('explosion.gif');
-  img8 = loadImage('star.gif');
+  img1 = loadImage('https://jiameiii.github.io/photoshop/giphy.gif');
+  img2 = loadImage('https://jiameiii.github.io/photoshop/yes.gif');
+  img3 = loadImage('https://jiameiii.github.io/photoshop/nah.gif');
+  img4 = loadImage('https://jiameiii.github.io/photoshop/maskon.gif');
+  img5 = loadImage('https://jiameiii.github.io/photoshop/washhand.gif');
+  img6 = loadImage('https://jiameiii.github.io/photoshop/thumbsup.gif');
+  img7 = loadImage('https://jiameiii.github.io/photoshop/explosion.gif');
+  img8 = loadImage('https://jiameiii.github.io/photoshop/star.gif');
 }
 
 function setup() {
