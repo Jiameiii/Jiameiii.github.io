@@ -10,8 +10,8 @@ var img;
 var img2;
 
 function preload(){
-  img = loadImage('virus.png');
-  img2 = loadImage('virus.png');
+  img = loadImage('https://jiameiii.github.io/Game/virus.png');
+  img2 = loadImage('https://jiameiii.github.io/Game/virus.png');
 }
 
 function setup() {
