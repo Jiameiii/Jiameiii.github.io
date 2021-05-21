@@ -13,7 +13,7 @@ imgg = loadImage('https://github.com/Jiameiii/Jiameiii.github.io/blob/main/final
 img11 = loadImage('https://github.com/Jiameiii/Jiameiii.github.io/blob/main/final/photo/flower.1.gif');
   img2 = loadImage('https://github.com/Jiameiii/Jiameiii.github.io/blob/main/final/photo/skull.gif');
 img22 = loadImage('https://github.com/Jiameiii/Jiameiii.github.io/blob/main/final/photo/skull.1.gif');
-	img3 = loadImage('https://github.com/Jiameiii/Jiameiii.github.io/blob/main/final/photo/stoicism.gif');
+  img3 = loadImage('https://github.com/Jiameiii/Jiameiii.github.io/blob/main/final/photo/stoicism.gif');
 img33 = loadImage('https://github.com/Jiameiii/Jiameiii.github.io/blob/main/final/photo/stoicism.1.gif');
 }
 function setup() {
