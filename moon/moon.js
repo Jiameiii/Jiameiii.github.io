@@ -6,7 +6,7 @@ function preload() {
 imgg = loadImage('moon.f.gif');
 }
 function setup() {
-  createCanvas(2800, 1800); // canvas size
+  createCanvas(1320, 810); // canvas size
   background(600);
 }
 

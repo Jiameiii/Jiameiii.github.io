@@ -6,7 +6,7 @@ function preload() {
 img33 = loadImage('stoicism.f.gif');
 }
 function setup() {
-  createCanvas(1500, 800); // canvas size
+  createCanvas(1320, 810); // canvas size
   background(600);
 }
 

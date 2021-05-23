@@ -7,7 +7,7 @@ function preload() {
 img11 = loadImage('flower.f.gif');
 }
 function setup() {
-  createCanvas(2800, 1800); // canvas size
+  createCanvas(1320, 810); // canvas size
   background(600);
 }
 
